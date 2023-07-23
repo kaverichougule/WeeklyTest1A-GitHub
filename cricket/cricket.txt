@@ -1,0 +1,7 @@
+Cricket is a bat and ball game played between two teams of eleven players on field.
+Equipments required for cricket are: 
+Ball
+Bat
+Stumps
+Bails
+
